@@ -1,0 +1,459 @@
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/wb-edu.graph 9845725 92472210 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x74a0f6000000
+back_pointer=   0x74a722c99980
+begin partition
+end partition
+lmove_pointer=  0x74a0f6000000
+rmove_pointer=  0x74a722c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2740267008B    2676042KB       2613MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     169.28 ms
+------Coarsen_time=               86.06 ms
+------Init_time=                   1.74 ms
+------Uncoarsen_time=             81.49 ms
+------else_time=                   0.00 ms
+edge-cut=                        375403
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x74a0f6000000
+back_pointer=   0x74a71fb00000
+begin partition
+end partition
+lmove_pointer=  0x74a0f6000000
+rmove_pointer=  0x74a71fb00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2740267008B    2676042KB       2613MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     168.95 ms
+------Coarsen_time=               85.63 ms
+------Init_time=                   1.87 ms
+------Uncoarsen_time=             81.45 ms
+------else_time=                   0.00 ms
+edge-cut=                        368689
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=            168.948
+best_coarsentime=         85.630
+best_inittime=             1.738
+best_uncoarsentime=       81.450
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/amazon-2008.graph 735323 7046944 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x7cb09a000000
+back_pointer=   0x7cb6c6c99980
+begin partition
+end partition
+lmove_pointer=  0x7cb09a000000
+rmove_pointer=  0x7cb6c6c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU:  245211136B     239464KB        233MB          0GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      43.55 ms
+------Coarsen_time=               13.26 ms
+------Init_time=                   1.71 ms
+------Uncoarsen_time=             28.59 ms
+------else_time=                   0.00 ms
+edge-cut=                        197846
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x7cb09a000000
+back_pointer=   0x7cb6c3b00000
+begin partition
+end partition
+lmove_pointer=  0x7cb09a000000
+rmove_pointer=  0x7cb6c3b00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU:  245211136B     239464KB        233MB          0GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      45.94 ms
+------Coarsen_time=               13.05 ms
+------Init_time=                   1.64 ms
+------Uncoarsen_time=             31.25 ms
+------else_time=                   0.00 ms
+edge-cut=                        205531
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=             43.555
+best_coarsentime=         13.048
+best_inittime=             1.642
+best_uncoarsentime=       28.590
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/vas_stokes_4M.graph 4382246 195417042 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x799c76000000
+back_pointer=   0x79a2a2c99980
+begin partition
+end partition
+lmove_pointer=  0x799c76000000
+rmove_pointer=  0x79a2a2c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 5052874368B    4934447KB       4818MB          4GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      95.84 ms
+------Coarsen_time=               53.31 ms
+------Init_time=                   1.88 ms
+------Uncoarsen_time=             40.64 ms
+------else_time=                   0.00 ms
+edge-cut=                       1132901
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x799c76000000
+back_pointer=   0x79a29fb00000
+begin partition
+end partition
+lmove_pointer=  0x799c76000000
+rmove_pointer=  0x79a29fb00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 5056116608B    4937613KB       4821MB          4GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     101.77 ms
+------Coarsen_time=               54.06 ms
+------Init_time=                   1.87 ms
+------Uncoarsen_time=             45.84 ms
+------else_time=                   0.00 ms
+edge-cut=                       1113336
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=             95.842
+best_coarsentime=         53.313
+best_inittime=             1.866
+best_uncoarsentime=       40.644
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/road_usa.graph 23947347 57708624 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x772a84000000
+back_pointer=   0x7730b0c99980
+begin partition
+end partition
+lmove_pointer=  0x772a84000000
+rmove_pointer=  0x7730b0c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2691094784B    2628022KB       2566MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     159.87 ms
+------Coarsen_time=               58.08 ms
+------Init_time=                   1.72 ms
+------Uncoarsen_time=            100.05 ms
+------else_time=                   0.00 ms
+edge-cut=                          6209
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x772a84000000
+back_pointer=   0x7730adb00000
+begin partition
+end partition
+lmove_pointer=  0x772a84000000
+rmove_pointer=  0x7730adb00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2691094784B    2628022KB       2566MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     166.77 ms
+------Coarsen_time=               57.52 ms
+------Init_time=                   1.75 ms
+------Uncoarsen_time=            107.50 ms
+------else_time=                   0.00 ms
+edge-cut=                          6349
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=            159.866
+best_coarsentime=         57.516
+best_inittime=             1.724
+best_uncoarsentime=      100.055
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/nlpkkt120.graph 3542400 93303392 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x77117a000000
+back_pointer=   0x7717a6c99980
+begin partition
+end partition
+lmove_pointer=  0x77117a000000
+rmove_pointer=  0x7717a6c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 3137800576B    3064258KB       2992MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      98.25 ms
+------Coarsen_time=               44.74 ms
+------Init_time=                   1.98 ms
+------Uncoarsen_time=             51.52 ms
+------else_time=                   0.00 ms
+edge-cut=                       2024827
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x77117a000000
+back_pointer=   0x7717a3b00000
+begin partition
+end partition
+lmove_pointer=  0x77117a000000
+rmove_pointer=  0x7717a3b00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 3137800576B    3064258KB       2992MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      96.95 ms
+------Coarsen_time=               44.69 ms
+------Init_time=                   2.13 ms
+------Uncoarsen_time=             50.13 ms
+------else_time=                   0.00 ms
+edge-cut=                       2035110
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=             96.952
+best_coarsentime=         44.688
+best_inittime=             1.982
+best_uncoarsentime=       50.133
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/Bump_2911.graph 2911419 124818480 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x724a16000000
+back_pointer=   0x725042c99980
+begin partition
+end partition
+lmove_pointer=  0x724a16000000
+rmove_pointer=  0x725042c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 3136903936B    3063382KB       2991MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      61.22 ms
+------Coarsen_time=               27.01 ms
+------Init_time=                   1.79 ms
+------Uncoarsen_time=             32.42 ms
+------else_time=                   0.00 ms
+edge-cut=                       1269156
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x724a16000000
+back_pointer=   0x72503fb00000
+begin partition
+end partition
+lmove_pointer=  0x724a16000000
+rmove_pointer=  0x72503fb00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 3137717248B    3064177KB       2992MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      58.27 ms
+------Coarsen_time=               27.00 ms
+------Init_time=                   1.75 ms
+------Uncoarsen_time=             29.52 ms
+------else_time=                   0.00 ms
+edge-cut=                       1294207
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=             58.265
+best_coarsentime=         26.999
+best_inittime=             1.748
+best_uncoarsentime=       29.517
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/cage15.graph 5154859 94044692 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x76114e000000
+back_pointer=   0x76177ac99980
+begin partition
+end partition
+lmove_pointer=  0x76114e000000
+rmove_pointer=  0x76177ac99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2995708288B    2925496KB       2856MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      94.44 ms
+------Coarsen_time=               41.63 ms
+------Init_time=                   1.74 ms
+------Uncoarsen_time=             51.07 ms
+------else_time=                   0.00 ms
+edge-cut=                       2065195
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x76114e000000
+back_pointer=   0x761777b00000
+begin partition
+end partition
+lmove_pointer=  0x76114e000000
+rmove_pointer=  0x761777b00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2995708288B    2925496KB       2856MB          2GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     122.69 ms
+------Coarsen_time=               41.35 ms
+------Init_time=                   1.90 ms
+------Uncoarsen_time=             79.44 ms
+------else_time=                   0.00 ms
+edge-cut=                       2053508
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=             94.435
+best_coarsentime=         41.350
+best_inittime=             1.735
+best_uncoarsentime=       51.069
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/hugebubbles-00000.graph 18318143 54940162 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x747d20000000
+back_pointer=   0x74834cc99980
+begin partition
+end partition
+lmove_pointer=  0x747d20000000
+rmove_pointer=  0x74834cc99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2087493376B    2038567KB       1990MB          1GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=     106.52 ms
+------Coarsen_time=               28.07 ms
+------Init_time=                   1.97 ms
+------Uncoarsen_time=             76.48 ms
+------else_time=                   0.00 ms
+edge-cut=                         11582
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33088602112B 32313088KB 31555MB 30GB
+Malloc GPU Memory:                  26470881664B 25850470KB 25244MB 24GB
+front_pointer=  0x747d20000000
+back_pointer=   0x748349c99980
+begin partition
+end partition
+lmove_pointer=  0x747d20000000
+rmove_pointer=  0x748349c99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 2087665920B    2038736KB       1990MB          1GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=      96.26 ms
+------Coarsen_time=               27.95 ms
+------Init_time=                   1.88 ms
+------Uncoarsen_time=             66.42 ms
+------else_time=                   0.00 ms
+edge-cut=                         11684
+imbalance=                        1.022
+---------------------------------------------------------
+best_alltime=             96.259
+best_coarsentime=         27.954
+best_inittime=             1.879
+best_uncoarsentime=       66.424
+graph:/home/lyj/HunyuanGraph_SC25_0.0.0_04080203_test/graphs/kron_g500-logn21.graph 2097152 182081864 8 1
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33151516672B 32374528KB 31615MB 30GB
+Malloc GPU Memory:                  26521213312B 25899622KB 25292MB 24GB
+front_pointer=  0x732820000000
+back_pointer=   0x732e4cc99980
+begin partition
+end partition
+lmove_pointer=  0x732820000000
+rmove_pointer=  0x732e4cc99980
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 12108570112B   11824775KB      11547MB         11GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=    1190.38 ms
+------Coarsen_time=              522.15 ms
+------Init_time=                   1.44 ms
+------Uncoarsen_time=            666.79 ms
+------else_time=                   0.00 ms
+edge-cut=                      16292902
+imbalance=                        1.030
+---------------------------------------------------------
+hunyuangraph_admin->Coarsen_threshold=        64
+Total GPU Memory:                   33680457728B 32891072KB 32120MB 31GB
+Usable GPU Memory before execution: 33086504960B 32311040KB 31553MB 30GB
+Malloc GPU Memory:                  26469203968B 25848832KB 25243MB 24GB
+front_pointer=  0x732820000000
+back_pointer=   0x732e49b00000
+begin partition
+end partition
+lmove_pointer=  0x732820000000
+rmove_pointer=  0x732e49b00000
+The left stack has been freed
+The right stack has been freed
+Max memory used of GPU: 12108570112B   11824775KB      11547MB         11GB
+---------------------------------------------------------
+Hunyuangraph-Partition-end
+Hunyuangraph_Partition_time=    1197.54 ms
+------Coarsen_time=              518.64 ms
+------Init_time=                   1.25 ms
+------Uncoarsen_time=            677.65 ms
+------else_time=                   0.00 ms
+edge-cut=                      16267870
+imbalance=                        1.030
+---------------------------------------------------------
+best_alltime=           1190.381
+best_coarsentime=        518.644
+best_inittime=             1.248
+best_uncoarsentime=      666.792
